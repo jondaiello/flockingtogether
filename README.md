@@ -14,3 +14,4 @@ Features:
 Wish List
 - Text reminders
 
+This could also be used for ABE/Sunday Schools as well.
